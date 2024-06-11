@@ -1,4 +1,2 @@
 nginx
-kasmweb/nginx:1.25.3
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
+krinsiman/wechat-com-bot:0.2.4
