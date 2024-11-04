@@ -1,2 +1,2 @@
 nginx
-krinsiman/wechat-com-bot:0.4.2
+krinsiman/wechat-com-bot:0.4.3
